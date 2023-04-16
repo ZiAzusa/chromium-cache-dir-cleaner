@@ -35,6 +35,6 @@ for d in range(ord("A"), ord("Z") + 1):
                     continue
 
 f.close()
-print(f'Success!')
+print(f'Complete! File deletion log (deleted_files.log) has been generated in the same directory as the program.')
 input(f'Please press "Enter" to exit...')
 exit()
