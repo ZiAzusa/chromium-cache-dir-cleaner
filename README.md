@@ -7,3 +7,4 @@
 [可执行文件 (Windows EXE File)](https://github.com/ZiAzusa/chromium-cache-dir-cleaner/releases/download/v1.0/windows_amd64.exe)<br>
 [简体中文脚本](https://github.com/ZiAzusa/chromium-cache-dir-cleaner/blob/main/cleaner.py)
 [English Script](https://github.com/ZiAzusa/chromium-cache-dir-cleaner/blob/main/cleaner_en.py)
+[日本語のスクリプト](https://github.com/ZiAzusa/chromium-cache-dir-cleaner/blob/main/cleaner_ja.py)
